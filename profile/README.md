@@ -1,4 +1,5 @@
-## Hello! Thanks for looking at the fugue-state-io code base
+## Hello!
+Thanks for looking at the fugue-state-io code base
 Development is in alpha and subject to change.
 check it out live at https://fugue-state.io
 <!--
